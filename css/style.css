@@ -3,6 +3,8 @@ body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.25rem;
     line-height: 1.6;
+    margin-inline: 200px;
+    margin-block: 50px;
 }
 header {
     text-align: center;
@@ -23,11 +25,14 @@ h2 {
 h3 {
     font-size: 1.75rem;
 }
+
 section {
     margin-block: 100px;
 }
 
 footer {
+    border: solid 3px#6E84CF;
+    padding: 10px;
     background-color: #22466C;
     color: #FFFFFF;
     text-align: center;
