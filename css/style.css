@@ -15,7 +15,7 @@ header {
 }
 
 h1 {
-    color: #4676A9;
+    color: #484C55;
     text-align: center;
     font-size: 7.5rem;
     line-height: 1.1;
@@ -34,10 +34,16 @@ section {
     margin-block: 100px;
 }
 
+.teal-bg {
+    background-color:#087A98;
+    color: #ffffff;
+    padding: 20px;
+    border: solid 10px #0b4a5a;
+}
+
+.teal-text {
+    color: #087A98;
+}
 footer {
-    border: solid 3px#6E84CF;
-    padding: 10px;
-    background-color: #22466C;
-    color: #FFFFFF;
     text-align: center;
 }
