@@ -39,6 +39,11 @@ section {
     margin-inline: auto;
 }
 
+img {
+    display: block;
+    max-inline-size: 100%;
+}
+
 .teal-bg {
     background-color:#087A98;
     color: #ffffff;
