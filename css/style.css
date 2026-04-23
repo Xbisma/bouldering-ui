@@ -39,6 +39,12 @@ section {
     margin-inline: auto;
 }
 
+.two-column-layout {
+    display: grid;
+    gap: 100px;
+    grid-template-columns: 1fr 1fr;
+}
+
 img {
     display: block;
     max-inline-size: 100%;
