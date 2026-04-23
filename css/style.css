@@ -34,6 +34,11 @@ section {
     margin-block: 100px;
 }
 
+.wrapper {
+    max-inline-size: 1000px;
+    margin-inline: auto;
+}
+
 .teal-bg {
     background-color:#087A98;
     color: #ffffff;
@@ -44,6 +49,26 @@ section {
 .teal-text {
     color: #087A98;
 }
+
+a {
+    color: #2B930B;
+}
+
+a:hover {
+    color: #5f9b9f;
+}
+
+.climber-bg {
+    background-image: url(../images/simple-steps.jpg);
+    border: solid 10px #0b4a5a;
+    color: #ffffff;
+    padding: 24px;
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 footer {
     text-align: center;
 }
